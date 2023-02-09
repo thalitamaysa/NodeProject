@@ -1,0 +1,51 @@
+{
+    "jogadores": [
+        { 
+            "nickname": "Haddock", 
+            "nível": 81, 
+            "id": 20 
+        },
+        { 
+            "nickname": "Laden", 
+            "nível": 100, 
+            "id": 9 
+        },
+        {   "nickname": "Azariel", 
+            "nível": 13, 
+            "id": 26 
+        }
+    ],
+    "jogos": [
+        { 
+            "nome": "Valorant", 
+            "anoLançamento": 2020, 
+            "id": 1 
+    },
+    { 
+            "nome": "Rainbown Six Siege", 
+            "anoLançamento": 2015, 
+            "id": 2 },
+    { 
+            "nome": "CrossFireAl", 
+            "anoLançamento": 2011, 
+            "id": 3 
+        }
+    ],
+    "personagens": [
+        { 
+            "codinome": "Killjoy", 
+            "nacionalidade": "alemã", 
+            "id": 1 
+        },
+        { 
+            "codinome": "Valkyrie", 
+            "nacionalidade": "estadunidense", 
+            "id": 2 
+        },
+        { 
+            "codinome": "Nikita", 
+            "nacionalidade": "russa", 
+            "id": 3 
+        }
+    ]
+}
